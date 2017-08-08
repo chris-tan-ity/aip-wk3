@@ -42,7 +42,7 @@ class Chat extends Component {
         <div className="title-wrapper block center-element">
           <img className="logo" src="http://feathersjs.com/img/feathers-logo-wide.png"
             alt="Feathers Logo" />
-          <span className="title">Chat</span>
+          <span className="title">AIP Chat that kinda doesn't work properly...</span>
         </div>
       </header>
 
